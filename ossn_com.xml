@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>Password Vadlidation on Singup</name>
+    <id>PasswordValidation</id>
+    <author>Core Team</author>
+    <description>Make sure users didn't use simple password.</description>
+    <license>SOFTLAB24 LIMITED, COMMERCIAL LICENSE v1.0</license>
+    <author_url>https://www.softlab24.com/</author_url>
+    <license_url>https://www.softlab24.com/license/commercial-license-v1</license_url>
+    <version>1.5</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>4.6</version>
+	</requires>
+</component>
